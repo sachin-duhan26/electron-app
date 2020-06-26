@@ -5,13 +5,7 @@ Technology Stack
 - HTML
 - CSS
 
-<img
-src="https://github.com/sachin-duhan26/electron-app/blob/master/img/preview.png"
-alt=“preview image for the app”
-style=“margin-right: 10px;”
-height="auto"
-width="auto"
-/>
+<img src="https://github.com/sachin-duhan26/electron-app/blob/master/img/preview.png" alt=“preview image for the app” height="auto" width="auto" />
 
 ## INSTALLATION
 Devlopment Requirements - Nodejs & npm
