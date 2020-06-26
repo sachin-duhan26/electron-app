@@ -6,8 +6,7 @@ Technology Stack
 - CSS
 
 <img
-src=“img/preview.png”
-raw=true
+src="https://github.com/sachin-duhan26/electron-app/blob/master/img/preview.png"
 alt=“preview image for the app”
 style=“margin-right: 10px;”
 height="auto"
