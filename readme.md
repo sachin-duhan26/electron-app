@@ -5,6 +5,15 @@ Technology Stack
 - HTML
 - CSS
 
+<img
+src=“img/preview.png”
+raw=true
+alt=“preview image for the app”
+style=“margin-right: 10px;”
+height="auto"
+width="auto"
+/>
+
 ## INSTALLATION
 Devlopment Requirements - Nodejs & npm
 
