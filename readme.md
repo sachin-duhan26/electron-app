@@ -5,8 +5,7 @@ Technology Stack
 - HTML
 - CSS
 
-![GitHub Logo](/img/preview.png)
-<img widht="964" alt=“preview image for the app” src="https://github.com/sachin-duhan26/electron-app/blob/master/img/preview.png">
+![App preview image](/img/preview.png)
 
 ## INSTALLATION
 Devlopment Requirements - Nodejs & npm
